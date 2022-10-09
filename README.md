@@ -16,3 +16,10 @@
 - Recognize possible errors, their causes and how to handle them.
 - Create, read and write data in files
 
+## 3️⃣ Week 3 goals
+
+- Use functions to explore algorithmic thinking
+- Use the logical concepts associated with procedural program flow.
+- Identify and explain the paradigms of procedural programming.
+- Instantiate and work with objects, classes and methods in Python.
+- Explain the object-oriented programming concepts that underpin Python
