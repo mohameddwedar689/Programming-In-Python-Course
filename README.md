@@ -1,6 +1,6 @@
 # Programming In Python Course 🐍
 
-## 1️⃣ Week  1 goals
+## 1️⃣Week  1 goals
 
 - Recognize common applications of the Python programming language.
 - Explain foundational software engineering concepts.
@@ -16,10 +16,18 @@
 - Recognize possible errors, their causes and how to handle them.
 - Create, read and write data in files
 
-## 3️⃣ Week 3 goals
+## 3️⃣Week 3 goals
 
 - Use functions to explore algorithmic thinking
 - Use the logical concepts associated with procedural program flow.
 - Identify and explain the paradigms of procedural programming.
 - Instantiate and work with objects, classes and methods in Python.
 - Explain the object-oriented programming concepts that underpin Python
+
+## 4️⃣Week 4 goals
+
+- Find, import and use popular Python modules and packages.
+- Leverage powerful tools to optimize the programming workflow.
+- Explain the types of testing and their features
+- Use testing tools to write a test
+
